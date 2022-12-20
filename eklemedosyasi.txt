@@ -1,1 +1,2 @@
-bu birinci satir
+bu birinci satir@
+ikinci satir
